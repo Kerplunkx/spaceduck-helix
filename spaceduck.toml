@@ -1,0 +1,28 @@
+"ui.background"= "background"
+"ui.selection" = {bg = "selection", fg = "foreground"}
+"ui.liner" = {fg = "dark_purple2"}
+"ui.statusline" = {fg = "dark_purple"}
+"ui.cursorline" = {bg = "cursor_line"}
+
+"string" = "cyan"
+"keyword" = {fg = "purple2"}
+"variable" = "foreground"
+"operator" = "magenta"
+"attribute" = "foreground"
+"punctuation" = "foreground"
+
+[palette]
+background = "#0f111b"
+foreground = "#ecf0c1"
+selection = "#1b1c36"
+cursor_line = "#16172d"
+red = "#e33400"
+orange = "#e39400"
+green = "#5ccc96"
+yellow = "#f2ce00"
+purple = "#b3a1e6"
+purple2 = "#7a5ccc"
+dark_purple = "#30365f"
+dark_purple2 = "#686f9a"
+cyan = "#00a3cc"
+magenta = "#ce6f8f"
