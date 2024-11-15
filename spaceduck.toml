@@ -1,15 +1,36 @@
 "ui.background"= "background"
 "ui.selection" = {bg = "selection", fg = "foreground"}
-"ui.liner" = {fg = "dark_purple2"}
-"ui.statusline" = {fg = "dark_purple"}
+"ui.linenr" = {fg = "purple2"}
+"ui.linenr.selected" = "yellow"
 "ui.cursorline" = {bg = "cursor_line"}
+"ui.cursor.primary" = {bg = "orange", fg = "foreground"}
+"ui.text" = "foreground"
+"ui.popup" = "foreground"
+"ui.popup.info" = "foreground"
+"ui.window" = "foreground"
+"error" = "red"
+
+"ui.statusline" = {bg = "dark_purple", fg = "foreground"}
+"ui.statusline.normal" = {fg = "purple", bg = "dark_purple"}
+"ui.bufferline.active" = {"modifiers" = ["italic", "underline"]}
+
+"diagnostic.warning" = { underline = { color = "orange", style = "dashed" } }
+"diagnostic.error" = { underline = { color = "red", style = "dashed" } }
+"diagnostic.info" = { underline = { color = "green", style = "dashed" } }
+"diagnostic.hint" = { underline = { color = "magenta", style = "dashed" } }
 
 "string" = "cyan"
 "keyword" = {fg = "purple2"}
+"namespace" = "green"
+"type"  = "yellow"
 "variable" = "foreground"
 "operator" = "magenta"
 "attribute" = "foreground"
 "punctuation" = "foreground"
+"comment" = "dark_purple2"
+"function" = "green"
+"type.builtin" = "green"
+"constant" = "orange"
 
 [palette]
 background = "#0f111b"
