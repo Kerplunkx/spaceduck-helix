@@ -1,5 +1,5 @@
 "ui.background"= "background"
-"ui.selection" = {bg = "selection", fg = "foreground"}
+"ui.selection" = {bg = "orange", fg = "foreground"}
 "ui.linenr" = {fg = "purple2"}
 "ui.linenr.selected" = "yellow"
 "ui.cursorline" = {bg = "cursor_line"}
@@ -9,6 +9,7 @@
 "ui.popup.info" = "foreground"
 "ui.window" = "foreground"
 "error" = "red"
+"ui.menu.selected" = "green"
 
 "ui.statusline" = {bg = "dark_purple", fg = "foreground"}
 "ui.statusline.normal" = {fg = "purple", bg = "dark_purple"}
