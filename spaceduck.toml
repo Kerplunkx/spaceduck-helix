@@ -1,4 +1,4 @@
-"ui.background"= "background"
+"ui.background"= "foreground"
 "ui.selection" = {bg = "orange", fg = "foreground"}
 "ui.linenr" = {fg = "purple2"}
 "ui.linenr.selected" = "yellow"
